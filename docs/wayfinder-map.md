@@ -1,6 +1,7 @@
 # 🗺️ 任务地图：37个 Matt Pocock 技能全面分析
 
 > 本文档是 GitHub Issues 任务地图的本地镜像，用于离线查看和存档。
+> 在线版本：https://github.com/jiushiniubi123/mattpocock-skills-analysis/issues/1
 
 ## 目的地（Destination）
 
@@ -35,54 +36,73 @@
 
 ## 任务批次总览
 
-### 第一优先级 - 非编程核心（7个）
-- [ ] grill-me — 拷问式决策验证
-- [ ] grilling — 拷问式决策验证（CLI 版）
-- [ ] wayfinder — 大型任务拆解规划
-- [ ] teach — 教学式学习
-- [ ] handoff — 任务交接文档
-- [ ] to-questionnaire — 问卷生成
-- [ ] wait-what — 理解修正
-- [ ] writing-for-agents — Agent 写作指南
+### 第一优先级 - 非编程核心（8个）⭐ 立即开始
 
-### 第二优先级 - 写作生产力（4个）
-- [ ] writing-fragments — 素材挖掘
-- [ ] writing-shape — 文章成型
-- [ ] writing-beats — 节奏打磨
-- [ ] retro — 回顾复盘
+| # | 技能 | 类型 | 状态 | Issue |
+|---|------|------|------|-------|
+| 1 | grill-me | grilling | ⬜ 待开始 | [#2](https://github.com/jiushiniubi123/mattpocock-skills-analysis/issues/2) |
+| 2 | grilling | grilling | ⬜ 待开始 | [#3](https://github.com/jiushiniubi123/mattpocock-skills-analysis/issues/3) |
+| 3 | wayfinder | grilling | ⬜ 待开始 | [#4](https://github.com/jiushiniubi123/mattpocock-skills-analysis/issues/4) |
+| 4 | teach | grilling | ⬜ 待开始 | [#5](https://github.com/jiushiniubi123/mattpocock-skills-analysis/issues/5) |
+| 5 | handoff | task | ⬜ 待开始 | [#6](https://github.com/jiushiniubi123/mattpocock-skills-analysis/issues/6) |
+| 6 | to-questionnaire | task | ⬜ 待开始 | [#7](https://github.com/jiushiniubi123/mattpocock-skills-analysis/issues/7) |
+| 7 | wait-what | task | ⬜ 待开始 | [#8](https://github.com/jiushiniubi123/mattpocock-skills-analysis/issues/8) |
+| 8 | writing-for-agents | task | ⬜ 待开始 | [#9](https://github.com/jiushiniubi123/mattpocock-skills-analysis/issues/9) |
 
-### 第三优先级 - 编程入门（6个）
-- [ ] code-review — 代码审查
-- [ ] tdd — 测试驱动开发
-- [ ] prototype — 原型验证
-- [ ] research — 资料调研
-- [ ] diagnosing-bugs — Bug 诊断
-- [ ] improve-codebase-architecture — 架构改进
+### 第二优先级 - 写作生产力（4个）⏳ 阻塞：第一批完成后开始
 
-### 第四优先级 - 编程进阶（10个）
-- [ ] ask-matt — 技能路由助手
-- [ ] codebase-design — 代码库设计
-- [ ] domain-modeling — 领域建模
-- [ ] grill-with-docs — 带文档的拷问
-- [ ] implement — 功能实现
-- [ ] to-spec — 需求规格化
-- [ ] to-tickets — 任务拆解
-- [ ] triage — Issue 分类
-- [ ] resolving-merge-conflicts — 合并冲突解决
-- [ ] setup-matt-pocock-skills — 技能环境配置
+| # | 技能 | 类型 | 状态 | Issue |
+|---|------|------|------|-------|
+| 9 | writing-fragments | task | ⬜ 待开始 | [#10](https://github.com/jiushiniubi123/mattpocock-skills-analysis/issues/10) |
+| 10 | writing-shape | task | ⬜ 待开始 | [#11](https://github.com/jiushiniubi123/mattpocock-skills-analysis/issues/11) |
+| 11 | writing-beats | task | ⬜ 待开始 | [#12](https://github.com/jiushiniubi123/mattpocock-skills-analysis/issues/12) |
+| 12 | retro | task | ⬜ 待开始 | [#13](https://github.com/jiushiniubi123/mattpocock-skills-analysis/issues/13) |
 
-### 第五优先级 - 工具类（4个）
-- [ ] setup-pre-commit — 代码提交钩子
-- [ ] scaffold-exercises — 练习脚手架
-- [ ] migrate-to-shoehorn — 类型断言迁移
-- [ ] git-guardrails-claude-code — Git 安全护栏
+### 第三优先级 - 编程入门（6个）⏳ 阻塞：前两批完成后开始
 
-### 第六优先级 - 进行中补充（6个）
-- [ ] claude-handoff — Claude 任务交接
-- [ ] implement-spec — 规格实现
-- [ ] loop-me — 工作流设计
-- [ ] setup-ts-deep-modules — TS 深层模块配置
-- [ ] wizard — 交互式引导
-- [ ] writing-beats — （已列第二优先级）
+| # | 技能 | 类型 | 状态 | Issue |
+|---|------|------|------|-------|
+| 13 | code-review | task | ⬜ 待开始 | [#14](https://github.com/jiushiniubi123/mattpocock-skills-analysis/issues/14) |
+| 14 | tdd | task | ⬜ 待开始 | [#15](https://github.com/jiushiniubi123/mattpocock-skills-analysis/issues/15) |
+| 15 | prototype | prototype | ⬜ 待开始 | [#16](https://github.com/jiushiniubi123/mattpocock-skills-analysis/issues/16) |
+| 16 | research | research | ⬜ 待开始 | [#17](https://github.com/jiushiniubi123/mattpocock-skills-analysis/issues/17) |
+| 17 | diagnosing-bugs | task | ⬜ 待开始 | [#18](https://github.com/jiushiniubi123/mattpocock-skills-analysis/issues/18) |
+| 18 | improve-codebase-architecture | task | ⬜ 待开始 | [#19](https://github.com/jiushiniubi123/mattpocock-skills-analysis/issues/19) |
 
-> 注：in-progress 共 8 个，其中 writing-fragments、writing-shape、writing-beats、retro 已分别列入对应批次，剩余 4 个 + claude-handoff + implement-spec + loop-me + wizard + setup-ts-deep-modules 列入本批。实际第六批为 6 个独立技能。
+### 第四优先级 - 编程进阶（10个）⏳ 阻塞：前三批完成后开始
+
+| # | 技能 | 类型 | 状态 | Issue |
+|---|------|------|------|-------|
+| 19 | ask-matt | task | ⬜ 待开始 | [#20](https://github.com/jiushiniubi123/mattpocock-skills-analysis/issues/20) |
+| 20 | codebase-design | task | ⬜ 待开始 | [#21](https://github.com/jiushiniubi123/mattpocock-skills-analysis/issues/21) |
+| 21 | domain-modeling | task | ⬜ 待开始 | [#22](https://github.com/jiushiniubi123/mattpocock-skills-analysis/issues/22) |
+| 22 | grill-with-docs | grilling | ⬜ 待开始 | [#23](https://github.com/jiushiniubi123/mattpocock-skills-analysis/issues/23) |
+| 23 | implement | task | ⬜ 待开始 | [#24](https://github.com/jiushiniubi123/mattpocock-skills-analysis/issues/24) |
+| 24 | to-spec | task | ⬜ 待开始 | [#25](https://github.com/jiushiniubi123/mattpocock-skills-analysis/issues/25) |
+| 25 | to-tickets | task | ⬜ 待开始 | [#26](https://github.com/jiushiniubi123/mattpocock-skills-analysis/issues/26) |
+| 26 | triage | task | ⬜ 待开始 | [#27](https://github.com/jiushiniubi123/mattpocock-skills-analysis/issues/27) |
+| 27 | resolving-merge-conflicts | task | ⬜ 待开始 | [#28](https://github.com/jiushiniubi123/mattpocock-skills-analysis/issues/28) |
+| 28 | setup-matt-pocock-skills | task | ⬜ 待开始 | [#29](https://github.com/jiushiniubi123/mattpocock-skills-analysis/issues/29) |
+
+### 第五优先级 - 工具类（4个）⏳ 阻塞：前四批完成后开始
+
+| # | 技能 | 类型 | 状态 | Issue |
+|---|------|------|------|-------|
+| 29 | setup-pre-commit | task | ⬜ 待开始 | [#30](https://github.com/jiushiniubi123/mattpocock-skills-analysis/issues/30) |
+| 30 | scaffold-exercises | task | ⬜ 待开始 | [#31](https://github.com/jiushiniubi123/mattpocock-skills-analysis/issues/31) |
+| 31 | migrate-to-shoehorn | task | ⬜ 待开始 | [#32](https://github.com/jiushiniubi123/mattpocock-skills-analysis/issues/32) |
+| 32 | git-guardrails-claude-code | task | ⬜ 待开始 | [#33](https://github.com/jiushiniubi123/mattpocock-skills-analysis/issues/33) |
+
+### 第六优先级 - 进行中/收尾（5个）⏳ 阻塞：前五批完成后开始
+
+| # | 技能 | 类型 | 状态 | Issue |
+|---|------|------|------|-------|
+| 33 | claude-handoff | task | ⬜ 待开始 | [#34](https://github.com/jiushiniubi123/mattpocock-skills-analysis/issues/34) |
+| 34 | implement-spec | task | ⬜ 待开始 | [#35](https://github.com/jiushiniubi123/mattpocock-skills-analysis/issues/35) |
+| 35 | loop-me | task | ⬜ 待开始 | [#36](https://github.com/jiushiniubi123/mattpocock-skills-analysis/issues/36) |
+| 36 | setup-ts-deep-modules | task | ⬜ 待开始 | [#37](https://github.com/jiushiniubi123/mattpocock-skills-analysis/issues/37) |
+| 37 | wizard | task | ⬜ 待开始 | [#38](https://github.com/jiushiniubi123/mattpocock-skills-analysis/issues/38) |
+
+> **总计：37 个技能，6 个优先级批次**
+>
+> 主地图 Issue：[#1](https://github.com/jiushiniubi123/mattpocock-skills-analysis/issues/1)
