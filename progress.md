@@ -33,3 +33,8 @@
 | 2026-09-12 | setup-pre-commit | 1 | 28 / 37 | 9 | 自动分析 |
 | 2026-09-12 | setup-matt-pocock-skills | 1 | 29 / 37 | 8 | 自动分析 |
 | 2026-09-12 | scaffold-exercises | 1 | 30 / 37 | 7 | 自动分析 |
+| 2026-09-12 | migrate-to-shoehorn | 1 | 31 / 37 | 6 | 自动分析 |
+| 2026-09-12 | claude-handoff | 1 | 32 / 37 | 5 | 自动分析 |
+| 2026-09-12 | implement-spec | 1 | 33 / 37 | 4 | 自动分析 |
+| 2026-09-12 | loop-me | 1 | 34 / 37 | 3 | 自动分析 |
+| 2026-09-12 | setup-ts-deep-modules | 1 | 35 / 37 | 2 | 自动分析 |
